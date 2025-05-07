@@ -1,1 +1,1 @@
-This is a old branch name master 
+This is a final resolved conflict a.txt
